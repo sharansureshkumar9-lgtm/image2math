@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Math Snip",
+  "description": "A web-based alternative to Mathpix and Pix2Text. Extract text, math formulas (LaTeX), and tables from images using Gemini Vision AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
